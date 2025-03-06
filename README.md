@@ -1,21 +1,7 @@
-About:
-## React Native Echo AI Powered Text-to-speech App
-<h3 align="center">Full Stack Text To Speech App With React Native, Nativewind, Nodejs & Express</h3>
+# Full Stack Text To Speech App With React Native, Nativewind, Nodejs & Express
 
-## 📋 <a name="table">Table of Contents</a>
+ <h3 align="center">React Native Echo AI Powered Text-to-speech App </h3>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-- Expo
-- React Native
-- TypeScript
-- Nativewind
-- Appwrite
-- Tailwind CSS
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
